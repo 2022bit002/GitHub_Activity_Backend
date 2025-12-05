@@ -15,4 +15,4 @@ python github_activity.py kamranahmedse
 
 (Note: On Mac/Linux, you might need to use python3 instead of python)
 
-Project Page URL : https://github.com/2022bit002/GitHub_Activity_Backend
+Project Page URL : https://roadmap.sh/projects/github-user-activity
